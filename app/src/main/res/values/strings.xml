@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="checkbox">activite.com.sharedpref.checkbox</string>
+    <string name="name">activite.com.sharedpref.name</string>
+    <string name="password">activite.com.sharedpref.password</string>
+</resources>
